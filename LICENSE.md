@@ -11,7 +11,7 @@ This repository holds the page of [Leonardo da Vinci · Mona Lisa](https://youda
 
 It keeps its own terms; our licences do not cover it.
 
-- **The work** — Leonardo da Vinci, *Portrait of Lisa Gherardini* (the Mona Lisa), Musée du Louvre, INV 779. The work is in the public domain. **The digital image** in `monalisa/` is not ours and is not covered by this licence.
+- **The image** in `monalisa/` — Leonardo da Vinci, *Portrait of Lisa Gherardini* (the Mona Lisa), Musée du Louvre, INV 779: a photograph by the C2RMF (Centre de recherche et de restauration des musées de France, *Galerie de tableaux en très haute définition*), from Wikimedia Commons, [File:Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg](https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg), where it is marked public domain as a faithful reproduction of a public-domain painting. Cut into tiles.
 - **Quotations** on the page remain their authors' and are not covered by this licence.
 - **Fonts** — Noto Sans, Noto Serif and Noto Serif SC in `fonts/`, trimmed to the characters on the page: [SIL Open Font License 1.1](https://openfontlicense.org/).
 
